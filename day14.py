@@ -7,7 +7,10 @@ port = 3306,
 database = "python"
 )
 
+
 my_terminal = db.cursor()
-my_terminal.execute('Insert into student (name, address) values ("Ayush, "Kanchanpur)')
-db.commit()
-print(db)
+# my_terminal.execute('Insert into student (name, address) values ("Ayush, "Kanchanpur)')
+# db.commit()
+# print(db)
+
+
