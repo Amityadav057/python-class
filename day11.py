@@ -23,7 +23,7 @@ class BankAccount():
     
     __account_number = "76774551790981"
     __balance = 0.0
-    
+    # construction
     def deposite(self,amount):
         self.__balance = self.__balance + amount
         return self.__balance
