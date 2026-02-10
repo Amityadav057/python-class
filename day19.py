@@ -20,7 +20,7 @@ create channel in viber
 webhook = "website ?"
 add person in channel
 viber expose api for member of channel
-super admin or admin can 
+super admin or admin can send a message
 
 
 '''
